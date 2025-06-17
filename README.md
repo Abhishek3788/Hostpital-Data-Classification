@@ -51,11 +51,14 @@ cd hospital-text-classification
 **##Install dependencies**
 pip install tensorflow numpy pandas matplotlib seaborn scikit-learn
 
-**Run the notebook**
+**##Run the notebook**
 jupyter notebook or google collab textclassification.ipynb
 
-**About the Author**
+**##About the Author**
 Name: Abhishek Kachare
+
 College: Datta Meghe College, Airoli
+
 Role: Aspiring AI Engineer
+
 LinkedIn:https:linkedin.com/in/abhishek-kachare
