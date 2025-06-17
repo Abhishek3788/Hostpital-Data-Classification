@@ -38,14 +38,8 @@ The dataset contains anonymized hospital records in the form of text, each label
 - **Loss:** XX
 - Confusion matrix and performance graphs included in `/visualizations` folder
 
-## 📷 Sample Visualizations
-
-![Accuracy Graph](images/accuracy.png)
-![Loss Graph](images/loss.png)
-![Confusion Matrix](images/confusion_matrix.png)
-
 ## 📦 How to Run
-git clone https://github.com/yourusername/hospital-text-classification.git
+git clone https://github.com/Abhishek3788/hospital-text-classification.git
 cd hospital-text-classification
 
 **##Install dependencies**
