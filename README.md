@@ -55,4 +55,4 @@ College: Datta Meghe College, Airoli
 
 Role: Aspiring AI Engineer
 
-LinkedIn:https:linkedin.com/in/abhishek-kachare
+LinkedIn:https:https://www.linkedin.com/in/abhishek-kachare-405a84222?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
